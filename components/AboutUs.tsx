@@ -30,7 +30,7 @@ export default function AboutUs() {
           </div>
           <div className="relative">
             <img
-              src="/placeholder.svg?height=500&width=500"
+              src="/pareja.png?height=500&width=500"
               alt="Artesano trabajando"
               className="w-full rounded-2xl shadow-2xl"
             />
